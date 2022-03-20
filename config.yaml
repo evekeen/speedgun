@@ -23,7 +23,7 @@ params:
     sizes: [400,600]
   hero:
     title: Measure speed
-    subtitle: In realtime, on your smartphone. Put your aces on radar!
+    subtitle: In realtime, on your smartphone. Put your aces on the radar!
     buttontext: Get started
     buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSdvOMnKDZIMmCms50UHNC-tuXCdTwFudK_6v229IYzU8O5Wtg/viewform"
     image: illustrations/tennis.gif  
