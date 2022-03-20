@@ -17,7 +17,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:  
+  description:    
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -28,8 +28,8 @@ params:
     buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSdvOMnKDZIMmCms50UHNC-tuXCdTwFudK_6v229IYzU8O5Wtg/viewform"
     image: illustrations/tennis.gif  
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: We're happy to introduce the best speed gun app!
+    subtitle: Your game will never be the same
     features:
     - title: Instant feedback
       text: Measure the speed of your serve in realtime at a court
@@ -43,15 +43,7 @@ params:
       icon: globe.png
   footer:
     # Logo (from /images/logos/___)
-    logo: fresh-white-alt.svg
-    # Social Media Title
-    socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    - link: https://instagram.com/speedgun
-      icon: instagram
-    - link: https://twitter.com/speedgun
-      icon: twitter    
+    logo: speedometer.png
     bulmalogo: false
     quicklinks:
       column1:
