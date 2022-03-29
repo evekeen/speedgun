@@ -1,7 +1,7 @@
 baseURL: https://speedgun.ivkin.dev
 publishdir: docs
 languageCode: en-us
-title: Speed gun app
+title: Speed radar app
 theme: fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -17,7 +17,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:    
+  description: Speed radar - measure your hit speed in realtime at a court
   font:
     name: "Open Sans"
     sizes: [400,600]
@@ -25,10 +25,10 @@ params:
     title: Measure speed
     subtitle: In realtime, on your smartphone. Put your aces on the radar!
     buttontext: Get started
-    buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLSdvOMnKDZIMmCms50UHNC-tuXCdTwFudK_6v229IYzU8O5Wtg/viewform"
-    image: illustrations/tennis.gif  
+    buttonlink: "https://forms.gle/ZsefL37UA85sd1t66"
+    image: illustrations/tennis.gif
   section2:
-    title: We're happy to introduce the best speed gun app!
+    title: We're happy to introduce the best speed radar app!
     subtitle: Your game will never be the same
     features:
     - title: Instant feedback
@@ -55,4 +55,4 @@ params:
         title: "Other products"
         links:
         - text: Ace Trace
-          link: https://acetrace.app              
+          link: https://acetrace.app
