@@ -1,13 +1,15 @@
 baseURL: https://speedgun.ivkin.dev
 publishdir: docs
 languageCode: en-us
-title: Speed radar app
+title: Speed radar app for sports
 theme: fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
 - taxonomy
 - taxonomyTerm
+images: ["images/twitter-card.png"]
+description: Speed radar - measure your tennis hit speed in realtime at a court
 markup:
   goldmark:
     renderer:
