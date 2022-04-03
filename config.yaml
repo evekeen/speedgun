@@ -25,7 +25,7 @@ params:
     sizes: [400,600]
   hero:
     title: How fast can you serve?
-    subtitle: Measure the speed in realtime at a court using just your phone
+    subtitle: Measure the speed in realtime at a court using just your phone camera
     buttontext: Try now
     buttonlink: "https://forms.gle/ZsefL37UA85sd1t66"
     image: tennis.png
