@@ -8,7 +8,6 @@ googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX
 disableKinds:
 - taxonomy
 - taxonomyTerm
-images: ["/images/twitter-card.png"]
 description: Speed radar - measure your tennis hit speed in realtime at a court
 markup:
   goldmark:
