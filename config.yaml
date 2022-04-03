@@ -22,11 +22,11 @@ params:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    title: Measure speed
-    subtitle: In realtime, on your smartphone. Put your aces on the radar!
-    buttontext: Get started
+    title: How fast can you serve?
+    subtitle: Measure the speed in realtime on a court using just your phone
+    buttontext: Try now
     buttonlink: "https://forms.gle/ZsefL37UA85sd1t66"
-    image: illustrations/tennis.gif
+    image: tennis.png
   section2:
     title: We're happy to introduce the best speed radar app!
     subtitle: Your game will never be the same
