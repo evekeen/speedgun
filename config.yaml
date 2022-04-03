@@ -17,18 +17,18 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description: Speed radar - measure your hit speed in realtime at a court
+  description: Speed radar - measure your tennis hit speed in realtime at a court
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
     title: How fast can you serve?
-    subtitle: Measure the speed in realtime on a court using just your phone
+    subtitle: Measure the speed in realtime at a court using just your phone
     buttontext: Try now
     buttonlink: "https://forms.gle/ZsefL37UA85sd1t66"
     image: tennis.png
   section2:
-    title: We're happy to introduce the best speed radar app!
+    title: Very accurate and simple to use
     subtitle: Your game will never be the same
     features:
     - title: Instant feedback
